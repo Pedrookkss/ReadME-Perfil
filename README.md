@@ -20,7 +20,7 @@
 </div>
 
 
- <img height=192  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrookkss&layout=compact&theme=shadow_green&hide_border=true&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000" />  <img height=192  src="https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=100&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000"/>
+ <img height=192  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrookkss&layout=compact&theme=shadow_green&hide_border=true&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000" />  <img height=192  src="https://github-readme-stats.vercel.app/api?username=Pedrookkss&show_icons=true&hide_border=true&card_width=100&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000"/>
 
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=81F7F3&section=footer">
